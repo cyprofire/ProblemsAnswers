@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class HourGlass {
 
 	public static void main(String[] Args){
@@ -41,5 +40,4 @@ public class HourGlass {
 		else
 			System.out.println("The number is even. No hourglass is formed.");
 	}
-
 }
