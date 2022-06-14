@@ -1,2 +1,4 @@
 # ProblemsAnswers
-The problems statements I solve
+
+1.  Hour Glass
+2.  Bank Management
